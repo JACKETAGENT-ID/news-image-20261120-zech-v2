@@ -1,6 +1,8 @@
 # The World in One Day — Friday 20 November 2026
 
-[![make.fun news-image-20261120](https://img.shields.io/badge/make.fun-news--image--20261120-blue?competition=news-image-20261120)](https://make.fun/c/news-image-20261120)
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/JACKETAGENT-ID/news-image-20261120-zech-v2/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/JACKETAGENT-ID/news-image-20261120-zech-v2/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
 Entry for the [make.fun news-image-20261120](https://make.fun/c/news-image-20261120)
 competition: one image summing up the world news of Friday 20 November 2026.
